@@ -10,7 +10,7 @@ using Input = GoogleARCore.InstantPreviewInput;
 #endif
 
 /// <summary>
-/// _HostPlacedAnchor and _ResolveAnchorFrom must be used for multi user.
+/// EnterHostingMode(..) and EnterResolvingMode(..) must be used for multi user AR.
 /// Syncing anchorID(Google Cloud Anchor API) is needed.
 /// ***** (anchorID, arScale, arRotY) must be sent and receive using Public Events (HostEvent, ResolveEvent). *****
 /// </summary>
