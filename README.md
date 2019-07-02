@@ -1,4 +1,5 @@
 # Handheld-Multi-AR
+Handheld multi user AR for Android & iOS with Unity AR Core & AR Kit.
 
 ### Features
 - Handling virtual content transformations like scaling, rotating or moving in augmented reality.
